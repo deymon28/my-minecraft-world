@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-10-10 00:42:44 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2022-09-01 19:01:22 +0300"
@@ -26,6 +32,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2022-09-01 19:04:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2022-10-10 00:42:44 +0300"
     },
     "done": true
   },
@@ -95,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-10-10 00:10:19 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-09-06 01:07:24 +0300"
@@ -110,6 +128,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2022-09-22 22:36:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-10-10 00:10:17 +0300"
     },
     "done": true
   },
@@ -209,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-10-10 00:10:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2022-09-06 00:49:40 +0300"
@@ -254,6 +284,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2022-09-01 19:01:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2022-10-10 00:10:18 +0300"
     },
     "done": true
   },
@@ -374,6 +410,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2022-09-06 01:55:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2022-10-10 00:42:44 +0300"
     },
     "done": true
   },
@@ -634,6 +676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2022-10-10 00:10:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_leggings": "2022-09-01 19:07:58 +0300"
@@ -697,6 +745,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-09-01 16:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-10-10 00:42:44 +0300"
     },
     "done": true
   },
@@ -772,6 +826,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2.main/network/blocks/io_port": {
+    "criteria": {
+      "has_drive": "2022-10-10 00:08:21 +0300"
+    },
+    "done": true
+  },
   "appliedenergistics2:recipes/appliedenergistics2.main/network/cables/glass_green": {
     "criteria": {
       "has_fluix_glass_cable": "2022-09-01 16:23:58 +0300"
@@ -787,6 +847,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-06 01:50:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2022-10-10 00:10:19 +0300"
     },
     "done": true
   },
@@ -835,6 +901,18 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2022-10-05 21:47:32 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2.main/network/wireless_terminal": {
+    "criteria": {
+      "has_terminal": "2022-10-10 00:08:14 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2.main/network/cells/view_cell": {
+    "criteria": {
+      "has_terminal": "2022-10-10 00:08:14 +0300"
     },
     "done": true
   },
@@ -955,6 +1033,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2022-09-06 02:54:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-10-10 00:06:50 +0300"
     },
     "done": true
   },
@@ -1197,6 +1281,7 @@
       "minecraft:cold_ocean": "2022-09-01 16:20:34 +0300",
       "minecraft:forest": "2022-09-01 20:12:24 +0300",
       "minecraft:mountains": "2022-09-01 16:21:28 +0300",
+      "minecraft:deep_cold_ocean": "2022-10-10 01:03:10 +0300",
       "minecraft:birch_forest": "2022-09-01 20:12:16 +0300",
       "minecraft:beach": "2022-09-01 16:20:28 +0300",
       "minecraft:dark_forest": "2022-09-01 16:20:26 +0300",
@@ -1249,6 +1334,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2022-09-01 19:14:23 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2.main/network/parts/terminals_fluid": {
+    "criteria": {
+      "has_terminal": "2022-10-10 00:08:14 +0300"
     },
     "done": true
   },
@@ -1324,6 +1415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2022-10-10 00:06:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-09-06 01:50:16 +0300"
@@ -1351,6 +1448,12 @@
   "appliedenergistics2:recipes/appliedenergistics2.main/network/cables/glass_orange": {
     "criteria": {
       "has_fluix_glass_cable": "2022-09-01 16:23:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2022-10-10 00:42:44 +0300"
     },
     "done": true
   },
@@ -1534,6 +1637,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2.main/network/blocks/quantum_ring": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2022-10-10 00:22:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2022-09-06 00:22:38 +0300"
@@ -1597,6 +1706,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2022-09-01 19:04:21 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2.main/network/cells/view_cell_storage": {
+    "criteria": {
+      "has_terminal": "2022-10-10 00:08:14 +0300"
     },
     "done": true
   },
@@ -1914,6 +2029,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2.main/network/parts/terminals_pattern": {
+    "criteria": {
+      "has_crafting_terminal": "2022-10-10 00:22:08 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2022-09-01 16:54:45 +0300"
@@ -2046,6 +2167,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2.main/network/cables/dense_smart_fluix_clean": {
+    "criteria": {
+      "has_smart_dense_cable": "2022-10-10 00:22:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-09-01 16:43:58 +0300"
@@ -2100,6 +2227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2022-10-10 00:10:18 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2022-09-06 01:50:16 +0300"
@@ -2127,6 +2260,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2022-09-01 18:22:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2022-10-10 00:10:19 +0300"
     },
     "done": true
   },
@@ -2328,6 +2467,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2.main/network/parts/terminals_crafting": {
+    "criteria": {
+      "has_terminal": "2022-10-10 00:08:14 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2022-09-01 16:52:51 +0300"
@@ -2349,6 +2494,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-09-06 02:54:47 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2022-10-10 00:22:08 +0300"
     },
     "done": true
   },
@@ -2403,6 +2554,12 @@
   "storagedrawers:recipes/storagedrawers/crimson_trim": {
     "criteria": {
       "has_planks": "2022-09-01 16:18:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-10-10 00:42:44 +0300"
     },
     "done": true
   },
@@ -2550,6 +2707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-10-10 00:10:19 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2022-09-06 00:29:00 +0300"
@@ -2559,6 +2722,18 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-09-01 16:54:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2022-10-10 00:10:18 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2.main/network/cables/smart_fluix_clean": {
+    "criteria": {
+      "has_smart_cable": "2022-10-10 00:22:09 +0300"
     },
     "done": true
   },
@@ -2610,6 +2785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2022-10-10 00:10:18 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2022-10-05 21:27:14 +0300"
@@ -2649,6 +2830,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-09-01 19:04:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2022-10-10 00:10:17 +0300"
     },
     "done": true
   },
